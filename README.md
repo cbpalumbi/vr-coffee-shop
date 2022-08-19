@@ -13,3 +13,9 @@ Coffee cylinder model "filling" the cup
 
 https://user-images.githubusercontent.com/20174653/185536198-e1c3291e-a191-4864-aeae-04ab25edefc3.mp4
 
+
+Cups plus ice cubes physics - I modeled the cups myself in Blender
+
+
+https://user-images.githubusercontent.com/20174653/185537617-951b93c5-fe3c-4932-a9aa-d3a706a552dd.mp4
+
